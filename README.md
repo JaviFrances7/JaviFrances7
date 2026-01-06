@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Javi | Full Stack Developer Student
 
-<!--
-**JaviFrances7/JaviFrances7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Máster en Desarrollo Full Stack**  
+🐍 **Python** (formación completada)  
+💻 Interés en desarrollo **backend**, **frontend** y buenas prácticas de software  
+🎮 Perfil técnico con mentalidad analítica y orientación a resolución de problemas  
 
-Here are some ideas to get you started:
+🚀 Actualmente en **formación continua**, desarrollando proyectos y buscando una **primera oportunidad como desarrollador junior**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías
+- Python  
+- Git / GitHub  
+- Programación orientada a objetos  
+- Desarrollo Full Stack (en formación)
+
+### 🔗 Contacto
+- LinkedIn: Javier Francés Sanz  
+
