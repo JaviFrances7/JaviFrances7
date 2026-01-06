@@ -14,5 +14,6 @@
 - Desarrollo Full Stack (en formación)
 
 ### 🔗 Contacto
-- LinkedIn: Javier Francés Sanz  
+- LinkedIn: Javier Francés Sanz
+- Mail: javifrances7@icloud.com
 
