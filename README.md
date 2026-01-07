@@ -1,20 +1,40 @@
-## 👋 Javi | Full Stack Developer Student
+# 👋 Hola, soy Javi | Full Stack Developer Student
 
-🎓 Estudiante de **Máster en Desarrollo Full Stack**  
-🐍 **Python** (formación completada)  
-💻 Interés en desarrollo **backend**, **frontend** y buenas prácticas de software  
+🎓 Estudiante de Máster en Desarrollo Full Stack  
+🐍 Especializado en Python  
+💻 Interés en desarrollo backend, frontend y buenas prácticas de software  
 🎮 Perfil técnico con mentalidad analítica y orientación a resolución de problemas  
-🚀 Actualmente en **formación continua**, desarrollando proyectos y buscando una **primera oportunidad como desarrollador junior**.
-Mi portfolio completo de proyectos en Python está disponible aquí: [Python Developer Portfolio](https://github.com/JaviFrances7/python-portfolio)
+🚀 Actualmente en formación continua, desarrollando proyectos y buscando una primera oportunidad como desarrollador junior.
 
+---
 
-### 🛠️ Tecnologías
-- Python  
-- Git / GitHub  
-- Programación orientada a objetos  
-- Desarrollo Full Stack (en formación)
+## 🏆 Portfolio de Proyectos Python
 
-### 🔗 Contacto
-- LinkedIn: Javier Francés Sanz
-- Mail: javifrances7@icloud.com
+Mi portfolio completo de proyectos en Python está disponible aquí:  
+[**Python Developer Portfolio**](https://github.com/JaviFrances7/python-portfolio)  
+
+Incluye proyectos destacados como:  
+- 🔊 **Article to Audio Converter** – Convierte artículos web a MP3 con gTTS  
+- 📝 **Detector de Idioma** – Detecta idiomas de texto con Tkinter  
+- 🖼️ **Image Editor GUI** – Editor de imágenes sencillo con filtros y rotación  
+- 🕹️ **Pong Game** – Juego clásico de Pong para dos jugadores  
+- 🧩 **Sudoku Solver** – Resuelve tableros de Sudoku automáticamente  
+- ⌨️ **Typing Speed Test** – Test de velocidad de escritura con cálculo de precisión y errores  
+
+---
+
+## 🛠️ Tecnologías y Skills
+
+- **Lenguajes:** Python  
+- **Herramientas:** Git / GitHub, POO  
+- **Frameworks / Librerías:** Tkinter, Pygame, PIL, gTTS, newspaper3k, langdetect  
+- **Habilidades:** Desarrollo Full Stack (en formación), algoritmos, automatización, interfaces gráficas
+
+---
+
+## 🔗 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/javier-frances-sanz)  
+- 📧 javifrances7@icloud.com  
+
 
