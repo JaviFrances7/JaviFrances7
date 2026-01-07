@@ -33,6 +33,7 @@ Incluye proyectos destacados como:
 ---
 
 📚 Próximamente
+
 **Frontend:**
 - HTML, CSS, JavaScript, TypeScript
 - React.js, Astro, Angular, Vue.js
