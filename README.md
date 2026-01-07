@@ -32,6 +32,18 @@ Incluye proyectos destacados como:
 
 ---
 
+📚 Próximamente
+**Frontend:**
+- HTML, CSS, JavaScript, TypeScript
+- React.js, Astro, Angular, Vue.js
+
+**Backend y otras tecnologías:**
+- Java, Node.js, Rust, Go
+- SQL, Streamlit, Django, WordPress
+- SEO y buenas prácticas web
+
+---
+
 ## 🔗 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/javier-frances-sanz)  
