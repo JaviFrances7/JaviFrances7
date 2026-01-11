@@ -14,6 +14,7 @@ Mi portfolio completo de proyectos en Python está disponible aquí:
 [**Python Developer Portfolio**](https://github.com/JaviFrances7/python-portfolio)  
 
 Incluye proyectos destacados como:  
+- 💰 Gestor de Gastos (CLI) – Aplicación en Python para gestionar gastos personales con arquitectura modular y persistencia en JSON
 - 🔊 **Article to Audio Converter** – Convierte artículos web a MP3 con gTTS  
 - 📝 **Detector de Idioma** – Detecta idiomas de texto con Tkinter  
 - 🖼️ **Image Editor GUI** – Editor de imágenes sencillo con filtros y rotación  
@@ -26,9 +27,10 @@ Incluye proyectos destacados como:
 ## 🛠️ Tecnologías y Skills
 
 - **Lenguajes:** Python  
-- **Herramientas:** Git / GitHub, POO  
-- **Frameworks / Librerías:** Tkinter, Pygame, PIL, gTTS, newspaper3k, langdetect  
-- **Habilidades:** Desarrollo Full Stack (en formación), algoritmos, automatización, interfaces gráficas
+- **Herramientas:** Git / GitHub, Programación Orientada a Objetos (POO)
+- **Frameworks / Librerías:** Tkinter, Pygame, PIL, gTTS, newspaper3k, langdetect
+- **Persistencia de datos:** JSON
+-**Habilidades:** Desarrollo Full Stack (en formación), lógica de negocio, algoritmos, automatización, interfaces gráficas y aplicaciones de línea de comandos
 
 ---
 
