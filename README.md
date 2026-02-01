@@ -14,7 +14,7 @@ Mi portfolio completo de proyectos en Python está disponible aquí:
 [**Python Developer Portfolio**](https://github.com/JaviFrances7/python-portfolio)  
 
 Incluye proyectos destacados como:  
-- 💰 Gestor de Gastos (CLI) – Aplicación en Python para gestionar gastos personales con arquitectura modular y persistencia en JSON
+- 💰 **Gestor de Gastos (CLI)** – Aplicación en Python para gestionar gastos personales con arquitectura modular y persistencia en JSON
 - 🔊 **Article to Audio Converter** – Convierte artículos web a MP3 con gTTS  
 - 📝 **Detector de Idioma** – Detecta idiomas de texto con Tkinter  
 - 🖼️ **Image Editor GUI** – Editor de imágenes sencillo con filtros y rotación  
