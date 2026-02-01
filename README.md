@@ -1,7 +1,7 @@
 # 👋 Hola, soy Javi | Full Stack Developer Student
 
 🎓 Estudiante de Máster en Desarrollo Full Stack  
-🐍 Python developer junior 
+🐍 Python developer junior | HTML
 💻 Interés en desarrollo backend, frontend y buenas prácticas de software  
 🎮 Perfil técnico con mentalidad analítica y orientación a resolución de problemas  
 🚀 Actualmente en formación continua, desarrollando proyectos y buscando una primera oportunidad como desarrollador junior.
@@ -14,6 +14,7 @@ Mi portfolio completo de proyectos en Python está disponible aquí:
 [**Python Developer Portfolio**](https://github.com/JaviFrances7/python-portfolio)  
 
 Incluye proyectos destacados como:  
+- 🗓️ **Sistema de Turnos para Profesionales (CLI)** - Aplicación desarrollada en Python que simula un sistema de gestión de turnos para profesionales independientes
 - 💰 **Gestor de Gastos (CLI)** – Aplicación en Python para gestionar gastos personales con arquitectura modular y persistencia en JSON
 - 🔊 **Article to Audio Converter** – Convierte artículos web a MP3 con gTTS  
 - 📝 **Detector de Idioma** – Detecta idiomas de texto con Tkinter  
@@ -26,7 +27,7 @@ Incluye proyectos destacados como:
 
 ## 🛠️ Tecnologías y Skills
 
-- **Lenguajes:** Python  
+- **Lenguajes:** Python | HTML
 - **Herramientas:** Git / GitHub, Programación Orientada a Objetos (POO)
 - **Frameworks / Librerías:** Tkinter, Pygame, PIL, gTTS, newspaper3k, langdetect
 - **Persistencia de datos:** JSON
@@ -37,7 +38,7 @@ Incluye proyectos destacados como:
 📚 Próximamente
 
 **Frontend:**
-- HTML, CSS, JavaScript, TypeScript
+- CSS, JavaScript, TypeScript
 - React.js, Astro, Angular, Vue.js
 
 **Backend y otras tecnologías:**
