@@ -25,32 +25,81 @@ Incluye proyectos destacados como:
 
 ---
 
-## 🛠️ Tecnologías y Skills
+🛠️ Tecnologías y Skills
 
-- **Lenguajes:** Python | HTML
-- **Herramientas:** Git / GitHub, Programación Orientada a Objetos (POO)
-- **Frameworks / Librerías:** Tkinter, Pygame, PIL, gTTS, newspaper3k, langdetect
-- **Persistencia de datos:** JSON
--**Habilidades:** Desarrollo Full Stack (en formación), lógica de negocio, algoritmos, automatización, interfaces gráficas y aplicaciones de línea de comandos
+Frontend
 
----
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* React
 
-📚 Próximamente
+Backend
 
-**Frontend:**
-- CSS, JavaScript, TypeScript
-- React.js, Astro, Angular, Vue.js
+* Python
+* SQL
 
-**Backend y otras tecnologías:**
-- Java, Node.js, Rust, Go
-- SQL, Streamlit, Django, WordPress
-- SEO y buenas prácticas web
+Inteligencia Artificial y Automatización
 
----
+* AI Agents
+* AI Automation
+* AI-Assisted Development
+* Integración de herramientas de IA
 
-## 🔗 Contacto
+Herramientas
 
-- [LinkedIn](https://www.linkedin.com/in/javier-frances-sanz)  
-- 📧 javifrances7@icloud.com  
+* Git
+* GitHub
+* Programación Orientada a Objetos (OOP)
 
+Librerías y Frameworks
+
+* Tkinter
+* Pygame
+* PIL
+* gTTS
+* newspaper3k
+* langdetect
+
+Competencias
+
+* Desarrollo Full Stack (en formación)
+* Arquitectura modular
+* Lógica de negocio
+* Resolución de problemas
+* Automatización
+* Desarrollo de aplicaciones CLI y GUI
+
+⸻
+
+📚 Próximas tecnologías
+
+Frontend Avanzado
+
+* Astro
+* Angular
+* Vue.js
+
+Backend
+
+* Django
+* Node.js
+* Java
+* Go
+* Rust
+
+Otras áreas
+
+* WordPress
+* SEO
+* Buenas prácticas web
+
+⸻
+
+🔗 Contacto
+
+💼 LinkedIn
+
+📧 javifrances7@icloud
 
