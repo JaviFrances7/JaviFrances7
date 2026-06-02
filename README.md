@@ -1,12 +1,10 @@
-# 👋 Hola, soy Javi | Full Stack Developer Student
+👋 Hola, soy Javi | Full Stack Developer Student
 
-🎓 Estudiante de Máster en Desarrollo Full Stack  
-🐍 Python developer junior |
-💻 Interés en desarrollo backend, frontend y buenas prácticas de software  
-🎮 Perfil técnico con mentalidad analítica y orientación a resolución de problemas  
-🚀 Actualmente en formación continua, desarrollando proyectos y buscando una primera oportunidad como desarrollador junior.
+🎓 Estudiante de Máster en Desarrollo Web Full Stack + IA
 
----
+💻 Interesado en desarrollo frontend, backend, automatización e inteligencia artificial aplicada
+
+🚀 Actualmente desarrollando proyectos Full Stack y construyendo mi portfolio mientras busco una primera oportunidad como desarrollador junior
 
 ## 🏆 Portfolio de Proyectos Python
 
